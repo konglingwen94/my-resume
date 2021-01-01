@@ -646,14 +646,14 @@ token 生成 ：`jsonwebtoken`
 
 ## 开发技术
 
-- Web 开发：HTML/HTML5、CSS/CSS3、Javascript、DOM/BOM、ES6/7/next、JSON、NodeJs
+- Web 开发：HTML/HTML5、CSS/CSS3、Javascript、DOM/BOM、ES6/7/Next、JSON、NodeJs
 - 前端框架、库、常用插件：Vue/Nuxt、JQuery、Axios、Lodash
 - 前端工具：Webpack、Npm、Less、Babel、Eslint
 - Vue 相关：Element-ui、vue-router、vue-devtools、vuex、cube-ui/mint-ui、vue-cli、vuepress、
 - NodeJs 类库、管理工具：Koa、Mongoose、Express、Egg、node-inspector、nodemon、PM2
-- 数据库、后端工具相关：Mongodb/MySQL、postman、linux 常用命令、ssh 基础命令
-- 版本管理、仓库托管、文档和自动化部署工具：Git、Github、Markdown、github-actions、linux 服务器
-- 使用开发工具和运行平台：Vscode/Sublime，Chrome/Safari、MacBook/Window7
+- 数据库、后端工具：MongoDB/MySQL、Postman、Linux 常用命令、SSH 基础命令
+- 版本管理、仓库托管、文档和自动化部署工具：Git、Github、Markdown、github-actions、Linux 服务器
+- 开发工具和运行平台：VSCode/Sublime，Chrome/Safari、MacBook/Window7
 
 ## 职业能力
 
