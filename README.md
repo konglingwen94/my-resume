@@ -646,7 +646,7 @@ token 生成 ：`jsonwebtoken`
 
 ## 开发技术
 
-- Web 开发：HTML/HTML5、CSS/CSS3、Javascript、ES6/7/next、JSON、NodeJs
+- Web 开发：HTML/HTML5、CSS/CSS3、Javascript、DOM/BOM、ES6/7/next、JSON、NodeJs
 - 前端框架、库、常用插件：Vue/Nuxt、JQuery、Axios、Lodash
 - 前端工具：Webpack、Npm、Less、Babel、Eslint
 - Vue 相关：Element-ui、vue-router、vue-devtools、vuex、cube-ui/mint-ui、vue-cli、vuepress、
@@ -658,12 +658,12 @@ token 生成 ：`jsonwebtoken`
 ## 职业能力
 
 - 精通`HTML`、`CSS`、`Javascript`技术并能灵活运用
-- 精通`VueJs`技术，掌握其运行机制，并对 VueJs 的**设计思想**、**重要特性的实现方式**有深入的理解和研究
-- 对**MVVM 架构**、**关注点分离**、**数据和界面间的映射**等编程思想有深入的理解
-- 对 web 技术标准和规范有深入的理解和体会
+- 精通`VueJs`技术，掌握其运行机制，并对 VueJs 的**设计思想**、**重要特性实现方式**有深入的理解和研究
+- 对**面向对象**、**MVVM 架构**、**组件关注点分离**等编程思想有深入的理解和实践
 - 掌握浏览器的运行原理
-- 对 web 应用有一定的架构能力，能够操作项目全栈开发的各个环节并完成发布
-- 对前端工程化、模块化、前后端分离等模式有全面的认知及应用
+- 对 web 技术标准和规范有深入的理解和体会
+- 对 web 应用有一定的架构能力，能够操作项目全栈开发的各个环节和发布流程
+- 对前端工程化、组件化、模块化、前后端分离等开发模式有全面的认知及应用
 - 突出的学习能力和独立的逻辑思维能力
 
 ## 软技能
