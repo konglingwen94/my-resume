@@ -1,5 +1,3 @@
- 
-
 # 联系方式
 
 - 手机：16692669622
@@ -15,32 +13,35 @@
 - 工作年限：3 年
 - 职业经历：4 年
 - 目前居住地：郑州
+
 ---
+
 - Github：<https://github.com/konglingwen94>
 - 技术博客：<https://juejin.cn/user/2154698523818328>
 - 学习笔记：<https://konglingwen94.github.io/my-study-notes>
-- 期望职位：**中级 WEB 前端开发工程师**，**WEB 全栈（NodeJs+MongoDB方向）开发工程师**
-- 期望薪资：税前月薪 12k~16k，特别喜欢的公司可例外
+- 期望职位：**中级前端开发工程师**，**WEB 全栈（NodeJs+MongoDB 方向）开发工程师**
+- 期望薪资：税前月薪 14k~17k，特别喜欢的公司可例外
 - 期望城市：不限
-
 
 # 职业经历（按照时间线倒叙排列）
 
-## 自由工作（2019 年 9 月~2020 年 12 月）
->此阶段时间内本人工作的主要内容是**加强职业技能**，**实战web/全栈项目**、**提升前端素养**等方面，主要以**互联网技术社区⇄本地电脑**的途径学习
+## 自由学习（2019 年 9 月~2020 年 12 月）
+
+> 此阶段时间本人学习的主要内容是**加强职业技能**，**实战 web 项目**、**提升前端素养**等方面，主要通过**互联网技术社区 ⇄ 本地电脑**的方式学习
 
 ### 开发、上线原创项目（2020 年 4 月~2020 年 12 月）
 
-实战项目期间自己对**web技术标准和规范**、**项目编码的可读性、维护性**、**代码书写规范**等方面有了更深入的理解和感悟、
+实战项目期间自己对**web 技术标准和规范**、**项目编码的可读性、维护性**、**代码书写规范**等方面有了更深入的理解和感悟、
 并最终在实际开发中得以应用
 
-#### [elm-seller-server](https://github.com/konglingwen94/elm-seller-server)   
+#### [elm-seller-server](https://github.com/konglingwen94/elm-seller-server)
 
->线上预览：<https://konglingwen94.github.io/elm-seller-server>
+> 线上预览：<https://konglingwen94.github.io/elm-seller-server>
 
 <details><summary>点击查看项目介绍</summary>
 
 - 目录
+
 ```bash
 ├── model  // 数据库模型
 │   ├── administrator.js
@@ -94,16 +95,17 @@
 
 单页应用路由请求路径回退中间件 : `koa2-connect-histroy-api-fallback`
 
-token生成 ：`jsonwebtoken`
+token 生成 ：`jsonwebtoken`
 
 数据库密码加密 : `bcrypt.js`
+
 </details>
 
 ---
 
 #### [vue-seller-admin](https://github.com/konglingwen94/vue-seller-admin)
 
->线上预览：<http://123.56.124.33:5000/admin>
+> 线上预览：<http://123.56.124.33:5000/admin>
 
 <div style="display:flex;justify-content:space-between;">
 <div style="width:90%">
@@ -121,7 +123,6 @@ token生成 ：`jsonwebtoken`
 - [x] 记录浏览过的页面到应用顶部标签（tab-tag）
 - [x] 分等级的多管理员
 - [x] 抽屉菜单
- 
 
 
 </div>
@@ -129,19 +130,18 @@ token生成 ：`jsonwebtoken`
 <div>
     <h3>技术栈</h3>
 
- 本项目主要使用`element-ui`作为应用UI的组件库，使用了按需引入的配置方式，缩小了项目最终打包的体积。
+本项目主要使用`element-ui`作为应用 UI 的组件库，使用了按需引入的配置方式，缩小了项目最终打包的体积。
 
-其次第三方模块有`axios`,`vue-router` `v-charts`(基于echart封装的vue组件库)
+其次第三方模块有`axios`,`vue-router` `v-charts`(基于 echart 封装的 vue 组件库)
 
 </div>
 </div>
 
 ---
 
-#### [vue-elm-seller](https://github.com/konglingwen94/vue-elm-seller) 
+#### [vue-elm-seller](https://github.com/konglingwen94/vue-elm-seller)
 
-  > 线上预览：<http://123.56.124.33:5000>
-
+> 线上预览：<http://123.56.124.33:5000>
 
 <div style="display:flex;justify-content:start;">
 <div style="margin-right:30%">
@@ -160,35 +160,34 @@ token生成 ：`jsonwebtoken`
   - 商家详情弹窗
   - 商品滚动列表菜单标题吸顶
   - 添加商品到购物车时的动画效果
-  
+
 
 </div>
   
 <div>
     <h3>技术栈</h3>
 
-  - `vue`
-  - `better-scroll`
-  - `lib-flexible`
-  - `axios`
-  - `express`
-  - `node`
-  - `javascript`
-  - `less`
-  - `css`
-  - `es6/7`
-  - `webpack`
-  - `vue-cli`
+- `vue`
+- `better-scroll`
+- `lib-flexible`
+- `axios`
+- `express`
+- `node`
+- `javascript`
+- `less`
+- `css`
+- `es6/7`
+- `webpack`
+- `vue-cli`
 
 </div>
 </div>
 
 ---
- 
 
-#### [vue-bytedanceJob](https://github.com/konglingwen94/vue-bytedanceJob) 
+#### [vue-bytedanceJob](https://github.com/konglingwen94/vue-bytedanceJob)
 
->线上预览：<http://123.56.124.33:3000>
+> 线上预览：<http://123.56.124.33:3000>
 
 <div style="display:flex">
 <div style="margin-right:40%">
@@ -211,16 +210,15 @@ token生成 ：`jsonwebtoken`
 - [x] 编辑简历
 - [x] 保存简历
 
-
 </div>
   
 <div>
     <h3>技术栈</h3>
 
- - `vue`
- - `vue-router`
- - `vue-cli`
- - `less`
+- `vue`
+- `vue-router`
+- `vue-cli`
+- `less`
 - `axios`
 - `lodash`
 - `es6~7`
@@ -228,22 +226,18 @@ token生成 ：`jsonwebtoken`
 - `node-fetch`
 - `http-proxy-middleware`
 
-
 </div>
 </div>
 
- ---
+---
 
 ### 技术提升和实践 (2019 年 9 月~2020 年 3 月)
 
-
-技术提升和实践的内容包括**web前端开发相关的各种技术类API及其类库**、**nodejs常用的API及其生态链**、**mongodb常用的API和类库**等
-
+技术提升和实践的内容包括**web 前端开发相关的各种技术类 API 及其类库**、**nodejs 常用的 API 及其生态链**、**mongodb 常用的 API 和类库**等
 
 #### 实战项目
 
-##### [egg-nuxt-blog](https://github.com/konglingwen94/egg-nuxt-blog)（使用nodejs的上层框架`egg`和vue的上层框架`nuxt`搭建的一个全栈项目，可以作为开发项目技术栈选型参考使用）
- 
+##### [egg-nuxt-blog](https://github.com/konglingwen94/egg-nuxt-blog)（使用 nodejs 的上层框架`egg`和 vue 的上层框架`nuxt`搭建的一个全栈项目，可以作为开发项目技术栈选型参考使用）
 
 <details><summary>点击查看目录结构</summary>
 
@@ -450,7 +444,6 @@ token生成 ：`jsonwebtoken`
  README.md   //项目指南
 ```
 
-
 </details>
 
 ---
@@ -471,20 +464,17 @@ token生成 ：`jsonwebtoken`
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/39ce99806a1948ba8a423107dbab26bd~tplv-k3u1fbpfcp-watermark.image)<br/>
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f67d65089394e1294b2c9d0a7a1fe1b~tplv-k3u1fbpfcp-watermark.image)
+
 </details>
 
 ---
 
 #### 造轮子
 
-- [comment-message-editor](https://github.com/konglingwen94/comment-message-editor)（基于vue封装的留言信息编辑器组件）
-- [message-tree](https://github.com/konglingwen94/message-tree)（基于vue封装的留言评论数组件）
-- [good-swiper](https://github.com/konglingwen94/good-swiper)（基于vue封装的轮播图组件）
-- [element-resize-event-polyfill](https://github.com/konglingwen94/element-resize-event-polyfill)（监听浏览器DOM元素原生resize事件的插件）
-
-
-
-
+- [comment-message-editor](https://github.com/konglingwen94/comment-message-editor)（基于 vue 封装的留言信息编辑器组件）
+- [message-tree](https://github.com/konglingwen94/message-tree)（基于 vue 封装的留言评论数组件）
+- [good-swiper](https://github.com/konglingwen94/good-swiper)（基于 vue 封装的轮播图组件）
+- [element-resize-event-polyfill](https://github.com/konglingwen94/element-resize-event-polyfill)（监听浏览器 DOM 元素原生 resize 事件的插件）
 
 ## 公司任职（担任前端开发工程师职位）
 
@@ -514,11 +504,9 @@ token生成 ：`jsonwebtoken`
 - [x] 注册管理员账户和缓存登录的用户信息到浏览器本地存储的功能
 - [x] 修改账户名和密码
 
- 
-
 #### 参与客户端项目开发
 
-在公司任职期间，我参与并局部开发了**CSAP剑桥暑期学生课程**小程序，[九鼎锐创](http://www.jiudingrc.com/)网站，**930家庭医生**微信公众号这三个客户端项目。其中**930家庭医生**公众号由我个人独立开发完成，此应用主要包括**微信登录**、**在线预约**、**支付订单**等功能。
+在公司任职期间，我参与并局部开发了**CSAP 剑桥暑期学生课程**小程序，[九鼎锐创](http://www.jiudingrc.com/)网站，**930 家庭医生**微信公众号这三个客户端项目。其中**930 家庭医生**公众号由我个人独立开发完成，此应用主要包括**微信登录**、**在线预约**、**支付订单**等功能。
 
 ###
 
@@ -573,7 +561,7 @@ token生成 ：`jsonwebtoken`
 
 - 加入 [npm](https://www.npmjs.com/~konglingwen) 社区，并发布首个 npm 包 [anydirectory](https://www.npmjs.com/package/anydirectory)
 
-- 初步学习 `nodejs`技术，搭建环境并练习应用常用的`API` 
+- 初步学习 `nodejs`技术，搭建环境并练习应用常用的`API`
 
 - 学习 `Vue` 框架及其全家桶技术和 `webpack` 前端工程化开发模式
 
@@ -582,7 +570,6 @@ token生成 ：`jsonwebtoken`
 ### 河南汇国医疗股份有限公司 （ 2018 年 6 月 ~ 2018 年 8 月 ）
 
 #### 河南汇国医疗股份有限公司网站 （包括 PC 端，移动端,微信小程序）
-
 
 我在[河南汇国医疗股份有限公司](https://www.hgyl120.com "由于离手此项目时间过长，预览效果可能有很大变化")PC 端网站这个项目中，根据设计师提供的 UI 设计稿完成了网站页面的布局和样式。网站是使用”DedeCms“技术为模板在服务端渲染页面的网站。网站的主要功能由**顶部轮播图**，**导航栏切换页面**，**手风琴动效**等包含多个交互功能的页面构成，使用的技术主要有`html`,`css`,`js`,`jquery`,`swiper`,`less`。
 
@@ -600,8 +587,7 @@ token生成 ：`jsonwebtoken`
 - jquery
 - Editplus/Hbuilder
 
-## 从事其他行业（2015年~2016年）
-
+## 从事其他行业（2015 年~2016 年）
 
 ## 商丘职业技术学院（2013 年~2014 年）
 
@@ -628,11 +614,11 @@ token生成 ：`jsonwebtoken`
 
 ### 轮子
 
-- [comment-message-editor](https://github.com/konglingwen94/comment-message-editor)（基于vue封装的留言信息编辑器组件）
-- [message-tree](https://github.com/konglingwen94/message-tree)（基于vue封装的留言评论数组件）
-- [good-swiper](https://github.com/konglingwen94/good-swiper)（基于vue封装的轮播图组件）
-- [anydirectory](https://github.com/konglingwen94/anydirectory)（基于node开发的静态资源托管服务器模块包）
-- [element-resize-event-polyfill](https://github.com/konglingwen94/element-resize-event-polyfill)（监听浏览器DOM元素原生resize事件的插件）
+- [comment-message-editor](https://github.com/konglingwen94/comment-message-editor)（基于 vue 封装的留言信息编辑器组件）
+- [message-tree](https://github.com/konglingwen94/message-tree)（基于 vue 封装的留言评论数组件）
+- [good-swiper](https://github.com/konglingwen94/good-swiper)（基于 vue 封装的轮播图组件）
+- [anydirectory](https://github.com/konglingwen94/anydirectory)（基于 node 开发的静态资源托管服务器模块包）
+- [element-resize-event-polyfill](https://github.com/konglingwen94/element-resize-event-polyfill)（监听浏览器 DOM 元素原生 resize 事件的插件）
 
 ---
 
@@ -660,45 +646,43 @@ token生成 ：`jsonwebtoken`
 - 前端框架、库、常用插件：Vue/Nuxt、JQuery、Axios、Lodash
 - 前端工具：Webpack、Npm、Less、Babel、Eslint
 - Vue 相关：Element-ui、vue-router、vue-devtools、vuex、cube-ui/mint-ui、vue-cli、vuepress、
-- NodeJs 类库、管理工具相关：Koa、Mongoose、Express、Egg、node-inspector、nodemon、PM2
+- NodeJs 类库、管理工具：Koa、Mongoose、Express、Egg、node-inspector、nodemon、PM2
 - 数据库、后端工具相关：Mongodb/MySQL、postman、linux 常用命令、ssh 基础命令
 - 版本管理、仓库托管、文档和自动化部署工具：Git、Github、Markdown、github-actions、linux 服务器
 - 使用开发工具和运行平台：Vscode/Sublime，Chrome/Safari、MacBook/Window7
 
-
 ## 职业能力
+
 - 精通`HTML`、`CSS`、`Javascript`技术并能灵活运用
-- 精通`VueJs`技术，掌握其运行机制，并对VueJs的**设计思想**、**重要特性的实现方式**有深入的理解和研究
-- 对**MVVM架构**、**关注点分离**、**数据和界面间的映射**等编程思想有深入的理解
+- 精通`VueJs`技术，掌握其运行机制，并对 VueJs 的**设计思想**、**重要特性的实现方式**有深入的理解和研究
+- 对**MVVM 架构**、**关注点分离**、**数据和界面间的映射**等编程思想有深入的理解
 - 对 web 技术标准和规范有深入的理解和体会
 - 掌握浏览器的运行原理
 - 对 web 应用有一定的架构能力，能够操作项目全栈开发的各个环节并完成发布
 - 对前端工程化、模块化、前后端分离等模式有全面的认知及应用
 - 突出的学习能力和独立的逻辑思维能力
 
-
 ## 软技能
 
 - 熟练使用 WEB 开发相关的调试工具并快速定位`bug`
+- 熟练使用`Git`、`Github`代码管理工具
 - 能阅读英文技术文档
 - 熟练使用 Markdown 语言编写 README 文档
-- 熟练使用键盘打印中英文、代码等字符
-- 对互联网产品的设计、用户体验有独立的审美和感受
+- 熟练使用键盘打印中英文和代码
+- 对互联网产品的**设计**、**功能**有独立的审美和体验
+- 熟练操作 Window、Mac 操作系统和其相关的软硬件工具
 
 # 学习过程
 
-自本人从事互联网行业工作以来，掌握的所有知识和技术都是个人通过学习、实践、积累、总结之后所得，其中在公司任职期间积累了项目协作开发的一些经验。目前本人入住的技术社区有 [Github](https://github.com/konglingwen94)、[掘金](https://juejin.cn/user/2154698523818328/)、[Segmentfault](https://segmentfault.com/u/konglingwen94)、 日常工作中解决问题常用的搜索网站有`Baidu`、`Google`、`StackOverflow`等
+自本人从事互联网行业工作以来，掌握的所有知识和技术都是通过个人**学习**、**实践**、**积累**、**总结**之后所得，其中在公司任职期间积累了项目协作开发的一些经验。目前本人入住的互联网技术社区有 [Github](https://github.com/konglingwen94)、[掘金](https://juejin.cn/user/2154698523818328/)、[Segmentfault](https://segmentfault.com/u/konglingwen94)、 日常工作中解决问题常用的搜索网站有`Google`、`Baidu`、`Github`、`StackOverflow`等
 
 # 自我评价
 
-## 职业
-
-本人对 WEB 前端开发和其相关的技术有着浓厚的兴趣，善于学习和钻研 web 技术，时常关注行业新技术的发展并能逐渐地跟进学习。在日常的项目开发中，自己对项目的**可维护性**、**模块化设计**、**代码书写规范**等方面均有着严格的要求，在满足项目场景需求的同时善于思考多种解决方案，并能总结出高效优雅的方案实际应用。
+本人对 WEB 前端开发和其相关的技术有着浓厚的兴趣，善于学习和钻研 web 技术，时常关注行业新技术的发展并能逐渐地学习。在日常的项目开发中，自己对项目的**可维护性**、**架构设计**、**代码书写规范**等方面有严格的要求，在满足项目场景需求的同时善于思考多种解决方案，并能总结出高效优雅的方法实际应用。
 
 ## 生活和爱好
 
 电影、篮球、跑步、新闻、互联网
-
 
 # 致谢
 
