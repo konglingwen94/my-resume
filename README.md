@@ -3,7 +3,7 @@
 - 手机：16692669622
 - 微信号：16692669622
 - Email：794430774@qq.com
-
+- 在线简历：<https://github.com/konglingwen94/my-resume>
 # 个人信息
 
 - 孔令文/男/1994
