@@ -4,6 +4,7 @@
 - 微信号：16692669622
 - Email：794430774@qq.com
 - 在线简历：<https://github.com/konglingwen94/my-resume>
+
 # 个人信息
 
 - 孔令文/男/1994
@@ -198,7 +199,7 @@
 
 # 技能清单
 
-- Web 开发：HTML/HTML5、CSS/CSS3、Javascript、DOM/BOM、ES6/7/Next、JSON、NodeJs
+- Web 开发：HTML/HTML5、CSS/CSS3、Javascript、DOM/BOM、ES6/7/Next、Ajax、JSON、NodeJs
 - 前端框架、库、常用插件：Vue/Nuxt、JQuery、Axios、Lodash
 - 前端工具：Webpack、Npm、Less、Babel、Eslint
 - Vue 相关：Element-ui、vue-router、vue-devtools、vuex、cube-ui/mint-ui、vue-cli、vuepress、
@@ -227,7 +228,7 @@
 
 # 自我评价
 
-本人对 WEB 前端开发及其相关的技术拥有浓厚的兴趣，平常善于学习和钻研 web 技术，时常关注行业新技术的发展并能逐渐地学习。在日常的项目开发中，本人对项目的**可维护性**、**架构设计**、**代码书写规范**等方面有严格的自我要求。工作中在实现产品需求的同时善于思考多种技术解决方案，并能总结出高效优雅的方案运用和积累。
+本人对 WEB 前端开发及其相关的技术拥有浓厚的兴趣，在 web 开发领域有全面完整的技术和知识体系。平常善于学习和钻研 web 技术，时常关注行业新技术的发展并能逐渐地学习。在日常的项目开发中，本人对项目的**可维护性**、**架构设计**、**代码书写规范**等方面有严格的自我要求。工作中在实现产品需求的同时善于思考多种技术解决方案，并能总结出高效优雅的方案积累和运用。
 
 # 生活和爱好
 
