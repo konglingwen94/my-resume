@@ -78,7 +78,9 @@
 
 `egg`、`nuxt`、`axios`、`bcryptjs`、`egg-cors`、`egg-mongoose`、`egg-router-plus`、`egg-scripts`、`egg-validate`、`element-ui`、`gravatar`、`inflected`、`jsonwebtoken`、`koa-compress`、`koa-multer`、`koa2-connect-history-api-fallback`、`message-tree`、`mongoose`、`normalize.css`、、`pell`、`vue-weather-component`
 
-> 项目地址：<https://github.com/konglingwen94/egg-nuxt-blog>
+> - 客户端线上地址：<http://123.56.124.33:7001>
+> - 管理后台线上地址：<http://123.56.124.33:7001/admin>
+> - 服务端文档：<https://konglingwen94.github.io/egg-nuxt-blog/index.html>
 
 ---
 
