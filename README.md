@@ -14,7 +14,7 @@
 - Github：<https://github.com/konglingwen94>
 - 技术博客：<https://juejin.cn/user/2154698523818328>
 - 期望职位：**WEB 前端/全栈（NodeJs+MongoDB 方向）开发工程师**
-- 期望薪资：税前月薪 15k~25k，特别喜欢的公司可例外
+- 期望薪资：税前月薪 15k~25k
 - 期望城市：不限
 
 # 职业经历
