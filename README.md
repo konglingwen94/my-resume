@@ -2,7 +2,7 @@
 
 - 手机：16692669622
 - 微信号：16692669622
-- Email：794430774@qq.com
+- Email：konglingwen94@gmail.com
 - 在线简历：<https://github.com/konglingwen94/my-resume>
 
 # 个人信息
