@@ -1,4 +1,4 @@
-# 目录
+# 简历目录
 
 - [联系方式](#联系方式)
 - [个人信息](#个人信息)
@@ -211,7 +211,15 @@
 - [egg-nuxt-blog](https://github.com/konglingwen94/egg-nuxt-blog)（egg+nuxt 搭建的 WEB 全栈项目，以技术应用为主）
 - [vue-blog-admin](https://github.com/konglingwen94/vue-blog-admin)（vue+element-ui 开发的博客管理后台，可作为通用管理后台类项目参考二次开发）
 
-## 技术文章
+## 插件
+
+- [comment-message-editor](https://github.com/konglingwen94/comment-message-editor)（基于 vue 封装的留言信息编辑器组件）
+- [message-tree](https://github.com/konglingwen94/message-tree)（基于 vue 封装的留言评论树组件）
+- [good-swiper](https://github.com/konglingwen94/good-swiper)（基于 vue 封装的轮播图组件）
+- [element-resize-event-polyfill](https://github.com/konglingwen94/element-resize-event-polyfill)（监听浏览器 DOM 元素原生 resize 事件的插件）
+- [anydirectory](https://github.com/konglingwen94/anydirectory)（基于Node.js实现的资源托管服务器）
+
+# 技术文章
 
 - [Koa+Mongodb 搭建商家店铺服务端项目总结](https://juejin.cn/post/6907803934031609863)
 - [Vue+ElementUI 搭建商家店铺管理后台项目总结](https://juejin.cn/post/6906796790390095879/)
@@ -246,7 +254,7 @@
 
 # 学习经历
 
-自从事互联网行业工作以来，个人掌握的所有知识和技术是通过不断的**学习**、**实践**、**积累**、**总结**这些过程后获得，其中在公司任职期间熟练掌握了团队项目开发的工作流程并积累了相关的经验。目前入住的互联网技术社区有 [Github](https://github.com/konglingwen94)、[掘金](https://juejin.cn/user/2154698523818328/)、[Segmentfault](https://segmentfault.com/u/konglingwen94)、 日常工作中解决问题常用的搜索网站有`Google`、`Baidu`、`Github`、`StackOverflow`等
+自从事互联网行业工作以来，本人所掌握的知识和技术是通过自己不断的**学习**、**实践**、**积累**、**总结**这些过程后所得，其中在公司任职期间熟练掌握了团队项目开发的工作流程并积累了相关的经验。目前入住的互联网技术社区有 [Github](https://github.com/konglingwen94)、[掘金](https://juejin.cn/user/2154698523818328/)、[Segmentfault](https://segmentfault.com/u/konglingwen94)、 日常工作中解决问题常用的搜索网站有`Google`、`Baidu`、`Github`、`StackOverflow`等
 
 # 自我评价
 
