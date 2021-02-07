@@ -255,7 +255,7 @@
 
 # 学习经历
 
-自从事互联网行业工作以来，本人所掌握的知识和技术是通过自己不断的**学习**、**实践**、**积累**、**总结**这些过程后所得，其中在公司任职期间熟练掌握了团队项目开发的工作流程并积累了相关的经验。目前入住的互联网技术社区有 [Github](https://github.com/konglingwen94)、[掘金](https://juejin.cn/user/2154698523818328/)、[Segmentfault](https://segmentfault.com/u/konglingwen94)、 日常工作中解决问题常用的搜索网站有`Google`、`Baidu`、`Github`、`StackOverflow`等
+自从事互联网行业工作以来，本人所掌握的知识和技术是通过自己不断的**学习**、**实践**、**积累**、**总结**这些过程后所得，其中在公司任职期间熟练掌握了团队项目开发的工作流程并积累了相关的经验。目前入住的互联网技术社区有 [Github](https://github.com/konglingwen94)、[掘金](https://juejin.cn/user/2154698523818328/)、[Segmentfault](https://segmentfault.com/u/konglingwen94)、 日常工作中解决问题常用的搜索网站有`Google`、`Baidu`、`Github`、[StackOverflow](https://stackoverflow.com/users/15162382/%E5%AD%94%E4%BB%A4%E6%96%87)等
 
 # 自我评价
 
