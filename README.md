@@ -19,10 +19,11 @@
 
 # 联系方式
 
-- 手机：16692669622
+ 
 - 微信号：16692669622
+- QQ: 794430774
 - Email：konglingwen94@gmail.com
-- 在线简历：<https://github.com/konglingwen94/my-resume>
+
 
 # 个人信息
 
@@ -33,8 +34,7 @@
 - Github：<https://github.com/konglingwen94>
 - 技术博客：<https://juejin.cn/user/2154698523818328>
 - 期望职位：WEB 前端/全栈（Node.js + MongoDB 方向）开发工程师
-- 期望薪资：税前月薪 15k~25k
-- 期望城市：不限
+
 
 
 # 职业经历
@@ -215,7 +215,7 @@
 
 - [Koa+Mongodb 搭建商家店铺服务端项目总结](https://juejin.cn/post/6907803934031609863)
 - [Vue+ElementUI 搭建商家店铺管理后台项目总结](https://juejin.cn/post/6906796790390095879/)
-- [Vue 全新重构升级字节跳动招聘网站 2.0 总结（下）](https://juejin.cn/post/6868884040029011975)
+- [Vue 全新重构升级字节跳动招聘网站总结（下）](https://juejin.cn/post/6868884040029011975)
 - [Vue 全新技术栈重构黄老师饿了么商家应用](https://juejin.cn/post/6844904202624303118)
 - [Vue 全栈技术重构字节跳动招聘网站总结 ( 上 )](https://juejin.cn/post/6844904199289831432/)
 
