@@ -16,15 +16,11 @@
 - [生活和爱好](#生活和爱好)
 - [致谢](#致谢)
 
-
-
 # 联系方式
 
- 
 - 微信号：16692669622
 - QQ: 794430774
 - Email：konglingwen94@gmail.com
-
 
 # 个人信息
 
@@ -35,8 +31,6 @@
 - Github：<https://github.com/konglingwen94>
 - 技术博客：<https://juejin.cn/user/2154698523818328>
 - 期望职位：WEB 前端/全栈（Node.js + MongoDB 方向）开发工程师
-
-
 
 # 职业经历
 
@@ -59,7 +53,7 @@
 
 #### [vue-seller-admin](https://github.com/konglingwen94/vue-seller-admin)
 
-> 线上预览：<http://123.56.124.33:5000/admin>
+> 线上预览：<http://123.57.204.48:5000/admin>
 
 ##### 技术栈
 
@@ -71,7 +65,7 @@
 
 #### [vue-elm-seller](https://github.com/konglingwen94/vue-elm-seller)
 
-> 线上预览：<http://123.56.124.33:5000>
+> 线上预览：<http://123.57.204.48:5000>
 
 ##### 技术栈
 
@@ -81,7 +75,7 @@
 
 #### [vue-bytedanceJob](https://github.com/konglingwen94/vue-bytedanceJob)
 
-> 线上预览：<http://123.56.124.33:3000>
+> 线上预览：<http://123.57.204.48:3000>
 
 ##### 技术栈
 
@@ -99,8 +93,8 @@
 
 `egg`、`nuxt`、`axios`、`bcryptjs`、`egg-cors`、`egg-mongoose`、`egg-router-plus`、`egg-scripts`、`egg-validate`、`element-ui`、`gravatar`、`inflected`、`jsonwebtoken`、`koa-compress`、`koa-multer`、`koa2-connect-history-api-fallback`、`message-tree`、`mongoose`、`normalize.css`、、`pell`、`vue-weather-component`
 
-> - 客户端线上地址：<http://123.56.124.33:7001>
-> - 管理后台线上地址：<http://123.56.124.33:7001/admin>
+> - 客户端线上地址：<http://123.57.204.48:7001>
+> - 管理后台线上地址：<http://123.57.204.48:7001/admin>
 > - 服务端文档：<https://konglingwen94.github.io/egg-nuxt-blog/index.html>
 
 ---
@@ -126,7 +120,7 @@
 
 #### 在 [Github](https://github.com/konglingwen94) 开源社区发布首个项目 [vue-music](https://github.com/konglingwen94/vue-music)
 
-> 线上地址: <http://123.56.124.33:4000>
+> 线上地址: <http://123.57.204.48:4000>
 
 ##### 技术栈
 
@@ -218,7 +212,7 @@
 - [message-tree](https://github.com/konglingwen94/message-tree)（基于 vue 封装的留言评论树组件）
 - [good-swiper](https://github.com/konglingwen94/good-swiper)（基于 vue 封装的轮播图组件）
 - [element-resize-event-polyfill](https://github.com/konglingwen94/element-resize-event-polyfill)（监听浏览器 DOM 元素原生 resize 事件的插件）
-- [anydirectory](https://github.com/konglingwen94/anydirectory)（基于Node.js实现的资源托管服务器）
+- [anydirectory](https://github.com/konglingwen94/anydirectory)（基于 Node.js 实现的资源托管服务器）
 
 # 技术文章
 
